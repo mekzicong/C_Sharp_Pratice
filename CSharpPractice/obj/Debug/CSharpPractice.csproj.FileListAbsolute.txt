@@ -5,3 +5,10 @@ C:\Users\lalor\source\repos\CSharpPractice\CSharpPractice\obj\Debug\CSharpPracti
 C:\Users\lalor\source\repos\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.csproj.CoreCompileInputs.cache
 C:\Users\lalor\source\repos\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.exe
 C:\Users\lalor\source\repos\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.pdb
+C:\Users\User\Desktop\Source-code-Practicing-C#-Implementing-an-Interface\CSharpPractice\CSharpPractice\bin\Debug\CSharpPractice.exe.config
+C:\Users\User\Desktop\Source-code-Practicing-C#-Implementing-an-Interface\CSharpPractice\CSharpPractice\bin\Debug\CSharpPractice.exe
+C:\Users\User\Desktop\Source-code-Practicing-C#-Implementing-an-Interface\CSharpPractice\CSharpPractice\bin\Debug\CSharpPractice.pdb
+C:\Users\User\Desktop\Source-code-Practicing-C#-Implementing-an-Interface\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Source-code-Practicing-C#-Implementing-an-Interface\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Source-code-Practicing-C#-Implementing-an-Interface\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.exe
+C:\Users\User\Desktop\Source-code-Practicing-C#-Implementing-an-Interface\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.pdb

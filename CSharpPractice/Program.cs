@@ -19,6 +19,7 @@ namespace CSharpPractice
             SimpleMath simpleMath = new SimpleMath();
 
             Console.WriteLine(Information(bankAccount));
+            Console.WriteLine(Information(simpleMath));
 
             Console.ReadLine();
         }
